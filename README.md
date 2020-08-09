@@ -61,7 +61,7 @@
 
 ---
 
-<!-- <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" /> -->
+<img align="left" alt="Roberto Amoroso's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=roberto-amoroso&show_icons=true&hide_border=true" />
 
 [website]: http://robertoamoroso.it/
 [youtube]: https://www.youtube.com/channel/UCQxJUMX41X_19tPuBgwrjSw?view_as=subscriber
