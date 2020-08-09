@@ -10,6 +10,7 @@
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="Roberto Amoroso | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Roberto Amoroso | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="Roberto Amoroso | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Roberto Amoroso | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 <!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
@@ -64,6 +65,7 @@
 <img align="left" alt="Roberto Amoroso's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=roberto-amoroso&show_icons=true&hide_border=true" /> -->
 
 [website]: http://robertoamoroso.it/
+[stackoverflow]: https://stackoverflow.com/users/13204548/roberto-amoroso?tab=profile
 [youtube]: https://www.youtube.com/channel/UCQxJUMX41X_19tPuBgwrjSw?view_as=subscriber
 [instagram]: https://www.instagram.com/roberto__amoroso/
 [linkedin]: https://www.linkedin.com/in/roberto-amoroso/
