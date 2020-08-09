@@ -1,9 +1,10 @@
 ### Hi there, I'm Roberto Amoroso 👋
 
 ## I'm a Computer Engineer, Researcher, and Developer!
+- 🎓 Master's Degree in "Intelligent Cyber ​​Systems": artificial intelligence, processing of visual and multimedia data, computer networks, development on mobile platforms
 - 🔭 I’m currently working on Computer Vision, Machine Learning, and Network Management
-- 🌱 I’m currently learning everything concerning the previous fields to carry out my research 🎓
-- ⚡ Fun fact: I love to travel all over the world 🌎
+- 🌱 I'm currently studying and carrying out research to improve my skills on artificial intelligence and its application to different fields
+- 🌎 I love to travel all over the world
 
 ### Connect with me:
 
