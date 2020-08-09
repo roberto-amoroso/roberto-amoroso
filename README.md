@@ -44,7 +44,7 @@
 
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 
-<img align="left" alt="LaTeX" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
+<!-- <img align="left" alt="LaTeX" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" /> -->
 
 <img align="left" alt="GoogleAppEngine" width="26px" src="https://banner2.cleanpng.com/20180417/kte/kisspng-google-app-engine-google-cloud-platform-google-com-engine-5ad6487ff3bc09.7689109315239927039983.jpg" />
 
