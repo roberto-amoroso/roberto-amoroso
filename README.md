@@ -2,7 +2,7 @@
 
 ## I'm a Computer Engineer, Researcher, and Developer!
 - 🎓 Master's Degree in "Intelligent Cyber ​​Systems": artificial intelligence, processing of visual and multimedia data, computer networks, development on mobile platforms
-- 🔭 I’m currently working on Computer Vision, Machine Learning, and Network Management
+- 🔭 I’m a Research Engineer in the field Computer Vision, Machine Learning, and Network Management
 - 💻 I'm collaborating in the development and implementation of web and mobile applications
 - 🌎 I love to travel all over the world
 
